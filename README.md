@@ -1,4 +1,4 @@
-# PolyU_COMP1002
+# PolyU COMP1002
 COMP1002 Computational Thinking and Problem Solving - The Hong Kong Polytechnic University
 
 - **My Coures Note**: [https://ultrafish.cn/2021/12/18/Python-basic-note/](https://ultrafish.cn/2021/12/18/Python-basic-note/)
